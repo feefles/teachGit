@@ -1,1 +1,1 @@
-Hello world! this is a git workshop. Ben is awesome!
+Hello world! Today is Tuesday, November 25th. 
